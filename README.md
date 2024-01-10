@@ -9,6 +9,8 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domKul&layout=compact&theme=" alt=domKul />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=domKul&show_icons=true&locale=en&theme=" alt="domKul" /></p>
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 
 
 
